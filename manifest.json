@@ -1,0 +1,19 @@
+{
+    "name": "Things to do",
+    "description": "A popup for a list of thinks to do",
+    "version": "0.1",
+    "manifest_version": 3,
+    "icons": {
+        "16": "logo1.png",
+        "48": "logo1.png",
+        "128": "logo1.png"
+    },
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "logo1.png",
+            "48": "logo1.png",
+            "128": "logo1.png"
+        }
+    }
+}
