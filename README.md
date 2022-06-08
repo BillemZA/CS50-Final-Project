@@ -3,7 +3,7 @@
 
 A simple todolist for chrome extensions.
 
-For a video demonstration of my project, [click here]().
+For a video demonstration of my project, [click here](https://youtu.be/ifptNep1Oh8).
 
 ## About The Project
 
