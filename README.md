@@ -11,6 +11,11 @@ The idea for the project came when deciding on my final CS50 project. I have nev
 
 Since I am on google a lot I decided to make a to do list, since it is basic enough but still challenging enough for myself to actually build it. As I am on the internet a lot a to do list can actually be very helpful since it is just there and there is no need to open a seperate app for windows. Therefore the idea was born.
 
+## Description
+
+The chrome extension - to do list is easy to use. Just add it to your chome extension page and pin if you want and use it as you would any other to do list.
+
+The to do list is quite simple and only made as practice in javascript and chome extension functionality as this is my first project in computer science. Additionally, it is also intended to satisfy the 'final project' requirements for the Harvard CS50 course on [edX.org](https://cs50.harvard.edu//).
 ## Build using
 * [JSON](https://www.json.org/json-en.html)
 * [html](https://html.com/)
