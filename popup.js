@@ -16,7 +16,6 @@ document.querySelector('.create-todo').addEventListener('click',function(){
         fetchItems();
         document.querySelector('.new-todo input').value='';
         document.querySelector('.new-todo').style.display='none';
-        total ++;
       }
 
   });
