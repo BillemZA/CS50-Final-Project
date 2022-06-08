@@ -1,7 +1,7 @@
 
 # Things to do
 
-A simple todolist for chrome extensions.
+A simple to do list for chrome extensions.
 
 For a video demonstration of my project, [click here](https://youtu.be/ifptNep1Oh8).
 
@@ -9,7 +9,7 @@ For a video demonstration of my project, [click here](https://youtu.be/ifptNep1O
 
 The idea for the project came when deciding on my final CS50 project. I have never done a chrome axtension before of even worked with javascript this intuatively. Therefore I decided to challenge myself and try to build a chrome extension that I can actually use.
 
-Since I am on google a lot I decided to make a todo list, since it is basic enough but to challenge myself to actually build it. As i am on the internet a lot a todo list can actually be very helpful cause it is actually just there and no need to open a seperate app for windows. Therefore the idea was born.
+Since I am on google a lot I decided to make a to do list, since it is basic enough but still challenging enough for myself to actually build it. As I am on the internet a lot a to do list can actually be very helpful since it is just there and there is no need to open a seperate app for windows. Therefore the idea was born.
 
 ## Build using
 * [JSON](https://www.json.org/json-en.html)
@@ -30,16 +30,16 @@ Since I am on google a lot I decided to make a todo list, since it is basic enou
 
 
 ## What can it do
-The chrome extension acts as a simple todolist which can be used in your daily life. It can be used to make notes and be used as a checklist.
+The chrome extension acts as a simple to do list which can be used in your daily life. It can be used to make notes and be used as a checklist.
 
 Features include:
 
 * Adding an item to the todo list.
-* Removing and item from the todolist.
+* Removing and item from the to do list.
 * Marking an item as complete.
 * And editing an existing item.
 
-All items in the todolist will be saved to your chrome storage and will be there when you chrome again.
+All items in the to do list will be saved to your chrome storage and will be there when you chrome again.
 
 ## Requiements
 
